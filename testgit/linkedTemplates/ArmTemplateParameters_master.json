@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "testgit"
 		},
+		"adftestgit_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},

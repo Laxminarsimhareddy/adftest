@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "testgit"
+		},
+		"adftestgit_connectionString": {
+			"value": ""
 		}
 	}
 }
